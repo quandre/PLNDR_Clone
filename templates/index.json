@@ -1,22 +1,31 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "3cd79a3a-c72f-4a67-8171-ce9ace282cf7": {
+      "type": "collage",
+      "blocks": {
+        "22d052fb-ab16-4b94-b63a-4fa65883c11f": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "22d052fb-ab16-4b94-b63a-4fa65883c11f"
+      ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
   "order": [
-    "image_banner"
+    "3cd79a3a-c72f-4a67-8171-ce9ace282cf7"
   ]
 }
