@@ -85,11 +85,39 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "383b7673-9071-40e0-974b-807884cd42a7": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14846679908431__383b7673-9071-40e0-974b-807884cd42a7-1666576796c6327a69-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIGN UP FOR PLNDR NEWS",
+            "heading_size": "h2"
+          }
+        },
+        "template--14846679908431__383b7673-9071-40e0-974b-807884cd42a7-1666576796c6327a69-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14846679908431__383b7673-9071-40e0-974b-807884cd42a7-1666576796c6327a69-0",
+        "template--14846679908431__383b7673-9071-40e0-974b-807884cd42a7-1666576796c6327a69-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "3cd79a3a-c72f-4a67-8171-ce9ace282cf7",
     "3bf43d74-b3ac-4308-881b-54f73e528d80",
-    "f3a15d0d-aa68-40ed-83f1-31b899e7000e"
+    "f3a15d0d-aa68-40ed-83f1-31b899e7000e",
+    "383b7673-9071-40e0-974b-807884cd42a7"
   ]
 }
